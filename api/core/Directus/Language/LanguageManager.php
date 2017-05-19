@@ -69,7 +69,8 @@ class LanguageManager
             'nl' => 'Nederlands',
             'no' => 'Norsk',
             'zh-hans' => '中文（简体）',
-            'zh-hant' => '中文（繁體）'
+            'zh-hant' => '中文（繁體）',
+            'jp' => '日本語'
         ];
     }
 }
